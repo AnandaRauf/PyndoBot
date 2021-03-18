@@ -3,6 +3,7 @@
 PyndoBot(Python Indo Bot)
 
 Version 1.0 
+Developed date : 16 March 2021
 
 Pyndobot is simulation robots controlling moving, and excute program using Python Programming.
 
